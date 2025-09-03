@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20C%20🚀&fontSize=40&fontAlign=50&desc=Backend%20Dev%20|%20DevOps%20Fan%20|%20Cloud%20Explorer&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20🚀&fontSize=40&fontAlign=50&desc=Backend%20Dev%20|%20DevOps%20Fan%20|%20Automation%20Lover" width="100%"/>
 
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=440&lines=Backend+Engineer+%F0%9F%92%BB;DevOps+Fan+%F0%9F%A7%AA;Automation+Addict+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=440&lines=Backend+Engineer+%F0%9F%92%BB;DevOps+Fan+%F0%9F%A7%AA;Automation+Lover+%F0%9F%A4%96;Minimalist+UI%2FUX+Tinkerer+%F0%9F%92%A8;Always+learning+something+new+%F0%9F%8C%8E" />
 </p>
 
 ---
@@ -89,16 +89,22 @@
 ## 🚀 Top Projects
 
 <p align="center">
-  <a href="https://github.com/Charan-RC/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=PROJECT1&theme=tokyonight"/>
+  <!-- Replace 'your-project-1', 'your-project-2', etc. with your actual repo names -->
+  <a href="https://github.com/Charan-RC/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-1&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/Charan-RC/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=PROJECT2&theme=tokyonight"/>
+  <a href="https://github.com/Charan-RC/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-2&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/Charan-RC/PROJECT3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=PROJECT3&theme=tokyonight"/>
+  <a href="https://github.com/Charan-RC/your-project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-3&theme=tokyonight"/>
   </a>
 </p>
+
+<!-- 
+To show your real projects, replace 'your-project-1', 'your-project-2', and 'your-project-3'
+with the actual repository names you want to feature.
+-->
 
 ---
 
