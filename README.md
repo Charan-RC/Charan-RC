@@ -1,25 +1,47 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20🚀&fontSize=40&fontAlign=50&desc=Backend%20Dev%20|%20DevOps%20Fan%20|%20Automation%20Lover" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20🚀&fontSize=40&fontAlign=50&desc=Backend%20Dev%20|%20DevOps%20Fan%20|%20Cloud%20Explorer&descSize=20&descAlign=50"/>
 
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=440&lines=Backend+Engineer+%F0%9F%92%BB;DevOps+Fan+%F0%9F%A7%AA;Automation+Lover+%F0%9F%A4%96;Minimalist+UI%2FUX+Tinkerer+%F0%9F%92%A8;Always+learning+something+new+%F0%9F%8C%8E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=440&lines=Backend+Engineer+%F0%9F%92%BB;DevOps+Fan+%F0%9F%A7%AA;Automation+Addict+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me 
+## <img src="https://img.icons8.com/color/48/000000/source-code.png" width="28"/> <span style="color:#f7971e;">About Me</span>
 
-- 🛠️ Building robust, scalable backend systems.
-- 🌀 DevOps Enthusiast (CI/CD, Docker, K8s, Github Actions)
-- 🎨 Minimalist UI/UX tinkerer
-- 🌏 Always exploring new tech & tools
-- 🧩 Automation everywhere!
-- ⚡ Let's connect and create awesome things together.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="230"/>
+</div>
+
+<p align="center">
+  <b><span style="color:#f7971e; font-size:1.2em;">Hey, I'm <span style="color:#6e44ff;">Charan R</span>!</span></b><br>
+  <span style="color:#32a852;">🚩 Backend developer passionate about building reliable, scalable systems and automation-first solutions.</span><br>
+  <span style="color:#6e44ff;">🌀 Living in the world of DevOps: CI/CD, Docker, GitHub Actions, and cloud-native workflows.</span><br>
+  <span style="color:#ffa726;">🎨 Minimalist at heart, I love clean code, performance, and robust backend architecture.</span><br>
+  <span style="color:#e57373;">🧠 Forever learning, always exploring new frameworks, tools, and automation techniques.</span><br>
+  <span style="color:#9c27b0;">🤝 Let’s connect, share, and collaborate on innovative ideas!</span>
+</p>
 
 ---
 
-## ⚡ Currently Working On
+## <img src="https://img.icons8.com/color/48/000000/combo-chart--v2.png" width="28"/> <span style="color:#6e44ff;">Contribution Graph</span>
+
+<!-- GitHub's native contribution graph is automatically shown at the top of your profile page. 
+     For a custom contribution graph, use the SVG below: -->
+
+<div align="center">
+
+<!--
+If you want a custom SVG contribution graph, you can use this service:
+https://github-readme-activity-graph.cyclic.app/graph?username=Charan-RC&theme=tokyo-night
+-->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Charan-RC&theme=tokyo-night&bg_color=0d1117&color=f7971e&line=6e44ff&point=32a852&area=true&hide_border=true" width="90%" alt="Charan R's Contribution Graph"/>
+</div>
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/flash-on.png" width="28"/> <span style="color:#32a852;">Currently Working On</span>
 
 <p>
   <img src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -29,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png" width="28"/> <span style="color:#ffa726;">Connect With Me</span>
 
 <p>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,44 +61,32 @@
 
 ---
 
-## 💡 Languages & Tools
+## <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="28"/> <span style="color:#e57373;">Languages & Tools</span>
 
 <div align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Web & UI -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-  <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- Hardware -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-
 </div>
 
 ---
 
-## 🔥 GitHub Stats & Streak
+## <img src="https://img.icons8.com/color/48/000000/fire-element--v2.png" width="28"/> <span style="color:#9c27b0;">GitHub Stats & Streak</span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charan-RC&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=F7971E" height="180"/>
@@ -86,37 +96,8 @@
 
 ---
 
-## 🚀 Top Projects
-
-<p align="center">
-  <!-- Replace 'your-project-1', 'your-project-2', etc. with your actual repo names -->
-  <a href="https://github.com/Charan-RC/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-1&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Charan-RC/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-2&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Charan-RC/your-project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charan-RC&repo=your-project-3&theme=tokyonight"/>
-  </a>
-</p>
-
-<!-- 
-To show your real projects, replace 'your-project-1', 'your-project-2', and 'your-project-3'
-with the actual repository names you want to feature.
--->
-
----
-
-## 🦄 Fun Fact
-
-- 🌈 I bring color to code and life – ask me about my favorite theme!
-- 🪐 I believe in making tech accessible, fun, and a little bit magical.
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
   <br>
-  <b>Let's build something amazing together! 🚀</b>
+  <b><span style="color:#f7971e;">Let's build something colorful and amazing together! 🚀</span></b>
 </p>
