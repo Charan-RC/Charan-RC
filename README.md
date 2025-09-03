@@ -27,19 +27,9 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart--v2.png" width="28"/> <span style="color:#6e44ff;">Contribution Graph</span>
 
-<!-- GitHub's native contribution graph is automatically shown at the top of your profile page. 
-     For a custom contribution graph, use the SVG below: -->
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUser&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
 
-<!--
-If you want a custom SVG contribution graph, you can use this service:
-https://github-readme-activity-graph.cyclic.app/graph?username=Charan-RC&theme=tokyo-night
--->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Charan-RC&theme=tokyo-night&bg_color=0d1117&color=f7971e&line=6e44ff&point=32a852&area=true&hide_border=true" width="90%" alt="Charan R's Contribution Graph"/>
-</div>
-
----
 
 ## <img src="https://img.icons8.com/color/48/000000/flash-on.png" width="28"/> <span style="color:#32a852;">Currently Working On</span>
 
