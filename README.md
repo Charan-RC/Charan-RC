@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20🚀&fontSize=40&fontAlign=50&desc=Backend%20Dev%20|%20DevOps%20Fan%20|%20Cloud%20Explorer&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Charan%20R%20🚀&fontSize=40&fontAlign=50&desc=RF%20and%20design%20|%VLSI%20Fan%20|%20Cloud%20Explorer&descSize=20&descAlign=50"/>
 
 <!-- Animated Introduction -->
 <p align="center">
